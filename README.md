@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Mateus! Seja bem-vindo(a) ao meu GitHub!:wave: </h2>
+<h2>Olá, eu sou o Mateus! Seja bem-vindo(a) ao meu GitHub! </h2>
 
 <div>
   <h2>Tecnologias e Ferramentas</h2>
