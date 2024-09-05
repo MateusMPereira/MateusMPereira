@@ -9,7 +9,7 @@
 ## Sobre mim
 
 - :mortar_board: &nbsp; Formado em Banco de Dados na <a href="https://estacio.br/" target="_black">Estácio</a>
-- :mortar_board: &nbsp; Atualmente estou fazendo alguns cursos na <a href="https://www.alura.com.br/" target="_black">Alura</a especializados em Liderança Técnica.
+- :mortar_board: &nbsp; Atualmente estou fazendo alguns cursos na <a href="https://www.alura.com.br/" target="_black">Alura<a> especializados em Liderança Técnica.
 - 🎓 &nbsp; Cursando Pós Graduação Lato Sensu em Inovação e Negócios Disruptivos na <a href="https://www.unicesumar.edu.br" target="_blank">Unicesumar</a>
 - 🎓 &nbsp; Me aprofundando em algumas literaturas da área de tecnologia, desenvolvimento e arquitetura de software.
 - :thinking: &nbsp; Explorando novas tecnologias.
@@ -90,7 +90,7 @@
   
 -----
  
-- Última atualização: 26/06/2024
+- Última atualização: 05/09/2024
   
 - ⭐️ From [@MateusMPereira](https://github.com/MateusMPereira)
  
