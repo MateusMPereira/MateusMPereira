@@ -1,7 +1,7 @@
 ### Olá :wave:, sou o <b>Mateus</b>,
 </div>
 <div align="justify">
-<i>tenho 24 anos, sou de Londrina/PR e programador há 5 anos </i>
+<i>tenho 24 anos, sou de Londrina/PR e programador há mais de 5 anos </i>
 </div>
 
 -----
@@ -9,7 +9,7 @@
 ## Sobre mim
 
 - :mortar_board: &nbsp; Formado em Banco de Dados na <a href="https://estacio.br/" target="_black">Estácio</a>
-- :mortar_board: &nbsp; Atualmente estou fazendo alguns cursos na <a href="https://www.rocketseat.com.br/" target="_black">Rocketseat</a> focados em frontend.
+- :mortar_board: &nbsp; Atualmente estou fazendo alguns cursos na <a href="https://www.alura.com.br/" target="_black">Alura</a especializados em Liderança Técnica.
 - 🎓 &nbsp; Cursando Pós Graduação Lato Sensu em Inovação e Negócios Disruptivos na <a href="https://www.unicesumar.edu.br" target="_blank">Unicesumar</a>
 - 🎓 &nbsp; Me aprofundando em algumas literaturas da área de tecnologia, desenvolvimento e arquitetura de software.
 - :thinking: &nbsp; Explorando novas tecnologias.
