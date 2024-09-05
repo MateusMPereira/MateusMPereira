@@ -78,7 +78,6 @@
 <div> 
   <a href="https://www.instagram.com/mateusm.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/mateusmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/yPVV6HN6" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a> 
  
 -----
 
