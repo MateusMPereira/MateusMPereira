@@ -1,7 +1,7 @@
 ### Olá :wave:, sou o <b>Mateus</b>,
 </div>
 <div align="justify">
-<i>tenho 24 anos, sou de Londrina/PR e programador há mais de 5 anos </i>
+<i>tenho 25 anos, sou de Londrina/PR e programador desde 2019 </i>
 </div>
 
 -----
