@@ -89,7 +89,7 @@
   
 -----
  
-- Última atualização: 05/09/2024
+- Última atualização: 26/05/2025
   
 - ⭐️ From [@MateusMPereira](https://github.com/MateusMPereira)
  
